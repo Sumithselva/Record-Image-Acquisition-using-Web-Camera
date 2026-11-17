@@ -67,7 +67,7 @@ if ret:
 
 cap.release()
 ```
-<img width="565" height="452" alt="image" src="https://github.com/user-attachments/assets/8d512bd1-184b-409b-ae15-8fea2a25dd65" />
+<img width="683" height="472" alt="image" src="https://github.com/user-attachments/assets/8d9d3715-e43b-4bf4-bfd9-c6f9c4203b60" />
 
 
 ### ii) Display the video
@@ -97,7 +97,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="566" height="430" alt="image" src="https://github.com/user-attachments/assets/7757cf22-4115-4c25-a7f6-da02b000eed3" />
+<img width="705" height="443" alt="image" src="https://github.com/user-attachments/assets/6f966d36-c2e1-4937-a234-6fbd3cb67e69" />
+
 
 
 
@@ -132,7 +133,7 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="290" height="435" alt="image" src="https://github.com/user-attachments/assets/68d77890-f142-419e-94a5-f7a8ddee6bd7" />
+<img width="480" height="448" alt="image" src="https://github.com/user-attachments/assets/36eb1853-104f-48ba-85e6-c7d16de59bfc" />
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
@@ -165,7 +166,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="325" height="423" alt="image" src="https://github.com/user-attachments/assets/0c13d8a4-aabc-4893-8d84-b50bb72e4e4e" />
+<img width="437" height="446" alt="image" src="https://github.com/user-attachments/assets/d3e8faea-5287-4262-8a97-142ec77bded2" />
+
 
 
 ---
